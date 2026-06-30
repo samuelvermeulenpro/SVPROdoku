@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVPROdoku</string>
+
+    <!-- Niveaux -->
+    <string name="difficulty_easy">Facile</string>
+    <string name="difficulty_medium">Moyen</string>
+    <string name="difficulty_hard">Difficile</string>
+
+    <!-- Variantes -->
+    <string name="variant_classic">Classic</string>
+    <string name="variant_serpentart">Serpentart</string>
+    <string name="serpentart_desc">+ diagonales</string>
+
+    <!-- Jeu -->
+    <string name="mistakes">Erreurs : %1$d / %2$d</string>
+    <string name="errors_highlighted">Erreurs surlignées en rouge</string>
+    <string name="select_cell_first">Sélectionnez d\'abord une case</string>
+    <string name="cell_already_filled">Cette case est déjà remplie</string>
+    <string name="win_title">🎉 Félicitations !</string>
+    <string name="win_message">Puzzle résolu en %1$s\nErreurs : %2$d  •  Indices : %3$d</string>
+    <string name="lose_title">Partie terminée</string>
+    <string name="lose_message">Vous avez fait trop d\'erreurs. Essayez encore !</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="back_menu">Menu principal</string>
+
+    <!-- Sauvegarde -->
+    <string name="resume_title">Partie en cours</string>
+    <string name="resume_info">%1$s  •  %2$s</string>
+    <string name="resume_button">▶  Reprendre</string>
+    <string name="new_game_confirm_title">Nouvelle partie ?</string>
+    <string name="new_game_confirm_message">Une partie est en cours. Elle sera perdue si vous continuez.</string>
+    <string name="yes">Continuer</string>
+    <string name="no">Annuler</string>
+</resources>

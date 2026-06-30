@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="board_bg">#F0EDE8</color>
+    <color name="board_surface">#FFFFFF</color>
+
+    <!-- Lines -->
+    <color name="line_thin">#D4CFC9</color>
+    <color name="line_thick">#3D3530</color>
+
+    <!-- Cell highlights -->
+    <color name="cell_selected">#C8E6C9</color>       <!-- green tint for selected -->
+    <color name="cell_highlight">#EDE8E3</color>       <!-- row / col / box -->
+    <color name="cell_same_value">#DCEDC8</color>      <!-- same digit -->
+    <color name="cell_conflict">#FFCDD2</color>        <!-- error in same row/col -->
+
+    <!-- Digits -->
+    <color name="digit_given">#1A1612</color>          <!-- near-black, serif feel -->
+    <color name="digit_user">#2563EB</color>           <!-- blue -->
+    <color name="digit_error">#DC2626</color>          <!-- red -->
+    <color name="digit_note">#9C938A</color>           <!-- muted -->
+
+    <!-- Accent -->
+    <color name="accent">#2D6A4F</color>               <!-- forest green -->
+
+    <!-- Difficulty buttons -->
+    <color name="btn_easy">#52B788</color>
+    <color name="btn_medium">#F4A261</color>
+    <color name="btn_hard">#E63946</color>
+
+    <!-- System -->
+    <color name="colorPrimary">#2D6A4F</color>
+    <color name="colorPrimaryVariant">#1B4332</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#F4A261</color>
+</resources>
