@@ -1,4 +1,4 @@
-# Sudoku Android — fr.svpro.sudoku
+# SVPROdoku — fr.svpro.sudoku
 
 Jeu de Sudoku complet pour Android, écrit en Java.
 
@@ -34,7 +34,7 @@ fr.svpro.sudoku/
 ## Configuration minimale
 
 - minSdk : 24 (Android 7.0)
-- targetSdk : 34 (Android 14)
+- targetSdk : 37 (Android 17)
 - Java 8
 
 ## Paramètres personnalisables
